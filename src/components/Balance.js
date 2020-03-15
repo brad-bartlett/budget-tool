@@ -8,7 +8,7 @@ export const Balance = () => {
     
     return (
         <>
-            <h4>Portfolio balance:</h4>
+            <h4>Portfolio P&L:</h4>
             <h1>${total}</h1>
         </>
     )
